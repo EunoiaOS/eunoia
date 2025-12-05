@@ -32,6 +32,7 @@
     <project path="lineage-sdk" name="EunoiaOS/eunoia_lineage-sdk" />
     <project path="packages/apps/Eunoia" name="EunoiaOS/eunoia_packages_apps_Eunoia" />
     <project path="packages/apps/FaceUnlock" name="EunoiaOS/eunoia_packages_apps_FaceUnlock" />
+    <project path="packages/apps/GameSpace" name="EunoiaOS/eunoia_packages_apps_GameSpace" />
     <project path="packages/apps/SetupWizard" name="EunoiaOS/eunoia_packages_apps_SetupWizard" />
     <project path="packages/apps/Updater" name="EunoiaOS/eunoia_packages_apps_Updater" />
     <project path="vendor/os" name="EunoiaOS/eunoia_vendor_os" />

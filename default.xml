@@ -1033,6 +1033,7 @@
     <project path="packages/apps/Dialer" name="EunoiaOS/eunoia_packages_apps_Dialer" groups="pdk-fs" />
     <project path="packages/apps/DocumentsUI" name="EunoiaOS/eunoia_packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" />
     <project path="packages/apps/EmergencyInfo" name="EunoiaOS/eunoia_packages_apps_EmergencyInfo" groups="pdk-fs" />
+    <project path="packages/apps/EunoiaHome" name="EunoiaOS/eunoia_packages_apps_EunoiaHome" groups="pdk-fs,sysui-studio" />
     <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" remote="aosp" />
     <project path="packages/apps/ImsServiceEntitlement" name="platform/packages/apps/ImsServiceEntitlement" groups="pdk-fs" remote="aosp" />
     <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" groups="pdk-fs" remote="aosp" />
@@ -1058,7 +1059,6 @@
     <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" groups="pdk" remote="aosp" />
     <project path="packages/apps/ThemePicker" name="EunoiaOS/eunoia_packages_apps_ThemePicker" groups="pdk-fs" />
     <project path="packages/apps/Traceur" name="platform/packages/apps/Traceur" groups="pdk-fs" remote="aosp" />
-    <project path="packages/apps/Trebuchet" name="EunoiaOS/eunoia_packages_apps_Trebuchet" groups="pdk-fs,sysui-studio" />
     <project path="packages/apps/TvFeedbackConsent" name="platform/packages/apps/TvFeedbackConsent" groups="pdk-fs" remote="aosp" />
     <project path="packages/apps/TvSettings" name="EunoiaOS/eunoia_packages_apps_TvSettings" groups="pdk-fs" />
     <project path="packages/apps/TvSystemUI" name="EunoiaOS/eunoia_packages_apps_TvSystemUI" groups="pdk-fs" />

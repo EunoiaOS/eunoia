@@ -18,7 +18,7 @@
              revision="refs/tags/android-14.0.0_r67" />
 
     <default revision="refs/heads/eunoia-1.1"
-             remote="private"
+             remote="github"
              sync-c="true"
              sync-j="4" />
 

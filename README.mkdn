@@ -7,7 +7,7 @@ To get started with Android/EunoiaOS, you'll need to get familiar with [Source C
 
 To initialize your local repository using the EunoiaOS trees, use a command like this:
 ```bash
-repo init --depth=1 -u https://github.com/EunoiaOS/eunoia.git -b eunoia-1.1 --git-lfs
+repo init --depth=1 -u https://github.com/EunoiaOS/eunoia.git -b eunoia-1.2 --git-lfs
 ```
 
 Then to sync up:

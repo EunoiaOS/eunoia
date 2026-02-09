@@ -66,7 +66,6 @@
         <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sdm845/Android.mk" />
         <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8150/Android.bp" />
         <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8150/Android.mk" />
-<!--
         <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8250/Android.bp" />
         <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8250/Android.mk" />
         <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8350/Android.bp" />
@@ -77,7 +76,6 @@
         <linkfile src="os_pickup_audio-ar.mk" dest="hardware/qcom-caf/sm8550/audio/Android.mk" />
         <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8550/Android.bp" />
         <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8550/Android.mk" />
--->
     </project>
     <project path="hardware/qcom-caf/msm8953/audio" name="EunoiaOS/eunoia_hardware_qcom_audio" groups="qcom,msm8953" revision="eunoia-1.2-caf-msm8953" />
     <project path="hardware/qcom-caf/msm8953/display" name="EunoiaOS/eunoia_hardware_qcom_display" groups="qcom" revision="eunoia-1.2-caf-msm8953" />
@@ -97,7 +95,6 @@
     <project path="hardware/qcom-caf/sm8150/audio" name="EunoiaOS/eunoia_hardware_qcom_audio" groups="qcom,msmnile" revision="eunoia-1.2-caf-sm8150" />
     <project path="hardware/qcom-caf/sm8150/display" name="EunoiaOS/eunoia_hardware_qcom_display" groups="qcom" revision="eunoia-1.2-caf-sm8150" />
     <project path="hardware/qcom-caf/sm8150/media" name="EunoiaOS/eunoia_hardware_qcom_media" groups="qcom,msmnile" revision="eunoia-1.2-caf-sm8150" />
-<!--
     <project path="hardware/qcom-caf/sm8250/audio" name="EunoiaOS/eunoia_hardware_qcom_audio" groups="qcom,kona" revision="eunoia-1.2-caf-sm8250" />
     <project path="hardware/qcom-caf/sm8250/display" name="EunoiaOS/eunoia_hardware_qcom_display" groups="qcom" revision="eunoia-1.2-caf-sm8250" />
     <project path="hardware/qcom-caf/sm8250/media" name="EunoiaOS/eunoia_hardware_qcom_media" groups="qcom,kona" revision="eunoia-1.2-caf-sm8250" />
@@ -117,7 +114,6 @@
     <project path="hardware/qcom-caf/sm8550/dataipa" name="EunoiaOS/eunoia_vendor_qcom_opensource_dataipa" groups="qcom,kailua-vendor" revision="eunoia-1.2-caf-sm8550" />
     <project path="hardware/qcom-caf/sm8550/display" name="EunoiaOS/eunoia_hardware_qcom_display" groups="qcom" revision="eunoia-1.2-caf-sm8550" />
     <project path="hardware/qcom-caf/sm8550/media" name="EunoiaOS/eunoia_hardware_qcom_media" groups="qcom,kailua-vendor" revision="eunoia-1.2-caf-sm8550" />
--->
     <project path="hardware/qcom-caf/thermal" name="EunoiaOS/eunoia_hardware_qcom_thermal" groups="qcom,kailua-vendor" />
     <project path="hardware/qcom-caf/vr" name="EunoiaOS/eunoia_hardware_qcom_vr" groups="qcom,legacy-qcom" />
     <project path="hardware/qcom-caf/wlan" name="EunoiaOS/eunoia_hardware_qcom_wlan" groups="qcom,kailua-vendor" revision="eunoia-1.2-caf" />
